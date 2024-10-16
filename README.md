@@ -12,3 +12,5 @@ A simple yet elegant Digital Clock app built with React, utilizing the useEffect
 
 - React.js
 - Tailwind CSS for styling
+
+https://vinay-agam.github.io/Digital-Clock-React-UseEffect/
